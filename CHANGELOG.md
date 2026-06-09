@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version 3.0 (Julien Avice)
+
+- Make light theme usable
+- Changed bold and citation style
+
+
 ## Version 2.0 (Oct 9, 2022)
 
 As I have being busy and stopped maintaining this repo for almost 2 years. I am so surprised that a lot of you had still being using and supporting this theme.
